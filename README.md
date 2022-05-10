@@ -4,7 +4,7 @@
 Hello, this is my default Next.js starter with Typescript and reworked default filesystem layout, using a /src folder. To use this template, run
 
 ```bash
-npx create-next-app@latest --example https://github.com/haugseth/haugseth-nextjs-typescript-template <YOUR PROJECT NAME>
+npx create-next-app@latest --example https://github.com/haugseth/haugseth-nextjs-typescript-template YOUR_PROJECT_NAME
 ```
 
 ## Learn More
