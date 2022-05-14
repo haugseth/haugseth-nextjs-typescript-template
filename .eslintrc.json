@@ -1,9 +1,5 @@
 {
-  "extends": "next/core-web-vitals",
-  "rules": {
-    "indent": ["error", "tab"],
-    "prefer-const": "error",
-    "semi": "error",
-    "quotes": ["error", "single", {"allowTemplateLiterals": true}]
-  }
+  "extends": [
+    "next/core-web-vitals", "prettier"
+  ]
 }
